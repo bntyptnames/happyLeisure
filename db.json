@@ -1,0 +1,11 @@
+{
+    "bean": {
+        "code": "200",
+        "message": "json",
+        "app": {
+            "come": "0",
+            "landscape": "0",
+            "state":"false"
+        }
+    }
+}
